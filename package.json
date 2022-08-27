@@ -2,7 +2,7 @@
   "name": "wordpress-on-aws",
   "version": "0.1.0",
   "bin": {
-    "wordpress-on-aws": "bin/wordpress-on-aws.js"
+    "wordpress-app": "bin/wordpress-app.js"
   },
   "scripts": {
     "build": "tsc",
